@@ -10,7 +10,7 @@ This README would normally document whatever steps are necessary to get your app
 ### Who do I talk to? ###
 
 * Vahe Danielyan (DanieV)
-* danielyan.vahe@gmail.com
+* Email-danielyan.vahe@gmail.com 
 
 
 ### Download Link ###
