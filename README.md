@@ -16,16 +16,16 @@ This README would normally document whatever steps are necessary to get your app
 
 # **Main Menu!** #
 
-![Main.png](https://bitbucket.org/repo/angpGR/images/1097257036-Main.png)
+![Main.png](https://github.com/VaheDanielyan/Tic-Tac-Toe/blob/master/Source/Resources/Main.png)
 
 # **Intro Screen!** #
 
-![SPScreen.png](https://bitbucket.org/repo/angpGR/images/2285451045-SPScreen.png)
+![SPScreen.png](https://github.com/VaheDanielyan/Tic-Tac-Toe/blob/master/Source/Resources/SPScreen.png)
 
 # **Help Screen!** #
 
-![Help.png](https://bitbucket.org/repo/angpGR/images/2190393327-Help.png)
+![Help.png](https://github.com/VaheDanielyan/Tic-Tac-Toe/blob/master/Source/Resources/Help.png)
 
 # **Game menu!** #
 
-![Game.png](https://bitbucket.org/repo/angpGR/images/1911299141-Game.png)
+![Game.png](https://github.com/VaheDanielyan/Tic-Tac-Toe/blob/master/Source/Resources/Game.png)
