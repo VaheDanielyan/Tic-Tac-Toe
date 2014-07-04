@@ -15,9 +15,9 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Download Link ###
 
-* Dropbox      https://www.dropbox.com/s/vt9ky8ietna4592/Tic-Tac-Toe.zip
-* Zippyshare   http://www27.zippyshare.com/v/92737088/file.html
-* Google Drive https://drive.google.com/file/d/0BwmRPVurWBSdLXdhWTQyNzF1UTA/edit?usp=sharing
+* [Dropbox](https://www.dropbox.com/s/vt9ky8ietna4592/Tic-Tac-Toe.zip)
+* [Zippyshare](http://www27.zippyshare.com/v/92737088/file.html)
+* [Google Drive](https://drive.google.com/file/d/0BwmRPVurWBSdLXdhWTQyNzF1UTA/edit?usp=sharing)
   
 ### Application Menu Photos ###
 
