@@ -14,7 +14,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Application Menu Photos ###
 
-# **Main Menu!** #
+## **Main Menu!** ##
 
 ![Main.png](https://raw.githubusercontent.com/VaheDanielyan/Tic-Tac-Toe/master/Source/Resources/Main.png)
 
