@@ -16,16 +16,16 @@ This README would normally document whatever steps are necessary to get your app
 
 # **Main Menu!** #
 
-![Main.png](https://github.com/VaheDanielyan/Tic-Tac-Toe/blob/master/Source/Resources/Main.png)
+![Main.png](https://raw.github.com/VaheDanielyan/Tic-Tac-Toe/blob/master/Source/Resources/Main.png)
 
 # **Intro Screen!** #
 
-![SPScreen.png](https://github.com/VaheDanielyan/Tic-Tac-Toe/blob/master/Source/Resources/SPScreen.png)
+![SPScreen.png](https://raw.github.com/VaheDanielyan/Tic-Tac-Toe/blob/master/Source/Resources/SPScreen.png)
 
 # **Help Screen!** #
 
-![Help.png](https://github.com/VaheDanielyan/Tic-Tac-Toe/blob/master/Source/Resources/Help.png)
+![Help.png](https://raw.github.com/VaheDanielyan/Tic-Tac-Toe/blob/master/Source/Resources/Help.png)
 
 # **Game menu!** #
 
-![Game.png](https://github.com/VaheDanielyan/Tic-Tac-Toe/blob/master/Source/Resources/Game.png)
+![Game.png](https://raw.github.com/VaheDanielyan/Tic-Tac-Toe/blob/master/Source/Resources/Game.png)
